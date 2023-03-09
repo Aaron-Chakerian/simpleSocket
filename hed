@@ -1,0 +1,30 @@
+[33mcommit 703030cd4cd1b0483b6eb2589984bc8ae5d0026d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 1995af6 907e2ff
+Author: aaron <aaron.chakerian@students.mq.edu.au>
+Date:   Thu Mar 9 17:09:45 2023 +1100
+
+    branch1 merged to main
+
+[33mcommit 1995af627961881ea173d5e086d3b9082cacd742[m[33m ([m[1;32mbranch1[m[33m)[m
+Author: aaron <aaron.chakerian@students.mq.edu.au>
+Date:   Thu Mar 9 16:58:45 2023 +1100
+
+    test
+
+[33mcommit 907e2ff11aa1ebf234ce5a799c1dea6e9e436a07[m[33m ([m[1;31morigin/branch2[m[33m, [m[1;32mbranch2[m[33m)[m
+Author: aaron <aaron.chakerian@students.mq.edu.au>
+Date:   Thu Mar 9 16:54:08 2023 +1100
+
+    branch2 off main
+
+[33mcommit 65d8b48450643fbbea8ba57040ec55a7784ade12[m[33m ([m[1;31morigin/branch1[m[33m)[m
+Author: aaron <aaron.chakerian@students.mq.edu.au>
+Date:   Thu Mar 9 16:47:06 2023 +1100
+
+    test branch
+
+[33mcommit 17df02be0a7513633e38c302ec9855b1699f5478[m
+Author: aaron <aaron.chakerian@students.mq.edu.au>
+Date:   Thu Mar 9 16:42:28 2023 +1100
+
+    WK3 COMP3100 Prac completed
